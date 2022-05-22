@@ -1,0 +1,39 @@
+﻿  TcpChatprDlg.cpp
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.h(6): warning C4005: 'BUF_SIZE': 매크로 재정의
+  c:\users\admin\desktop\tcp 완성\tcpchatpr\pch.h(9): note: 'BUF_SIZE'의 이전 정의를 참조하십시오.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(97): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\winsock2.h(1831): note: 'inet_addr' 선언을 참조하십시오.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(132): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\winsock2.h(1831): note: 'inet_addr' 선언을 참조하십시오.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(73): warning C4101: 'message' :참조되지 않은 지역 변수입니다.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(72): warning C4101: 'clntAdrSize' :참조되지 않은 지역 변수입니다.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(191): warning C4101: 'strLen' :참조되지 않은 지역 변수입니다.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(256): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(213): note: 'fopen' 선언을 참조하십시오.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(300): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(213): note: 'fopen' 선언을 참조하십시오.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(319): warning C4244: '초기화 중': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(321): warning C4101: 'myFile' :참조되지 않은 지역 변수입니다.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(316): warning C4101: 'fp' :참조되지 않은 지역 변수입니다.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(337): warning C4838: 'double'에서 'char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(337): warning C4244: '초기화 중': 'double'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(351): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\string.h(130): note: 'strcpy' 선언을 참조하십시오.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(360): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(362): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\string.h(130): note: 'strcpy' 선언을 참조하십시오.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(381): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\string.h(130): note: 'strcpy' 선언을 참조하십시오.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(388): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(390): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\string.h(130): note: 'strcpy' 선언을 참조하십시오.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(349): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(213): note: 'fopen' 선언을 참조하십시오.
+c:\users\admin\desktop\tcp 완성\tcpchatpr\tcpchatprdlg.cpp(379): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(213): note: 'fopen' 선언을 참조하십시오.
+  코드를 생성하고 있습니다.
+  1 of 193 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  TcpChatpr.vcxproj -> C:\Users\admin\Desktop\TCP 완성\x64\Release\TcpChatpr.exe

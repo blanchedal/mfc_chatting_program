@@ -1,0 +1,11 @@
+﻿  TcpChatprDlg.cpp
+c:\users\admin\desktop\채팅 프로그램\tcp - 복사본\tcpchatpr\tcpchatprdlg.cpp(109): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\winsock2.h(1831): note: 'inet_addr' 선언을 참조하십시오.
+c:\users\admin\desktop\채팅 프로그램\tcp - 복사본\tcpchatpr\tcpchatprdlg.cpp(152): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\winsock2.h(1831): note: 'inet_addr' 선언을 참조하십시오.
+c:\users\admin\desktop\채팅 프로그램\tcp - 복사본\tcpchatpr\tcpchatprdlg.cpp(85): warning C4101: 'message' :참조되지 않은 지역 변수입니다.
+c:\users\admin\desktop\채팅 프로그램\tcp - 복사본\tcpchatpr\tcpchatprdlg.cpp(84): warning C4101: 'clntAdrSize' :참조되지 않은 지역 변수입니다.
+c:\users\admin\desktop\채팅 프로그램\tcp - 복사본\tcpchatpr\tcpchatprdlg.cpp(196): warning C4101: 'strLen' :참조되지 않은 지역 변수입니다.
+c:\users\admin\desktop\채팅 프로그램\tcp - 복사본\tcpchatpr\tcpchatprdlg.cpp(319): warning C4244: '초기화 중': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\admin\desktop\채팅 프로그램\tcp - 복사본\tcpchatpr\tcpchatprdlg.cpp(344): warning C4700: 초기화되지 않은 'fp' 지역 변수를 사용했습니다.
+  TcpChatpr.vcxproj -> C:\Users\admin\Desktop\채팅 프로그램\TCP - 복사본\x64\Debug\TcpChatpr.exe
