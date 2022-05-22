@@ -1,0 +1,10 @@
+﻿  pch.cpp
+c:\users\admin\desktop\udpchatpr\udpchatpr\pch.h(12): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  UdpChatPr.cpp
+  UdpChatPrDlg.cpp
+c:\users\admin\desktop\udpchatpr\udpchatpr\udpchatprdlg.cpp(88): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\winsock2.h(1831): note: 'inet_addr' 선언을 참조하십시오.
+c:\users\admin\desktop\udpchatpr\udpchatpr\udpchatprdlg.cpp(100): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\winsock2.h(1831): note: 'inet_addr' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  UdpChatPr.vcxproj -> C:\Users\admin\Desktop\UdpChatPr\Debug\UdpChatPr.exe
